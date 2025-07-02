@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Bienvenue !
 
-<!--
-**elmehdi03/elmehdi03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je m'appelle **El Mehdi El Youbi Rmich** et je suis étudiant en 2ᵉ année du cycle ingénieur à l'UEMF, spécialisé en **Big Data Analytics**.  
+Je suis passionné par la **data science**, le **machine learning**, et le **développement de projets concrets** autour des données.
 
-Here are some ideas to get you started:
+## 🎓 Formation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Cycle Ingénieur Big Data – UEMF (Fès, Maroc)
+- 🔬 Intérêt pour : Machine Learning, Deep Learning, Business Intelligence, Streamlit, Power BI
+
+## 💻 Compétences
+
+- **Langages** : Python, R, JavaScript, Java, C++, SQL
+- **Big Data** : Hadoop, Kafka
+- **Outils** : Streamlit, Power BI, Git, Docker (notions)
+- **Frameworks** : scikit-learn, Pandas, NumPy, Matplotlib
+
+## 📌 Projets phares
+
+- Prédiction de churn télécom (LightGBM + SHAP)
+- Tableau de bord e-commerce (Power BI)
+- Application de gestion de stages (MySQL + Python)
+- Interface de filtrage d’image (tkinter + OpenCV)
+
+👉 Découvre mes projets dans les dépôts publics ci-dessous !
+
+## 📫 Me contacter
+
+- 📧 mehdi.eloubi@gmail.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/el-mehdi-el-youbi-rmich-574941249)  
+- 💻 [GitHub](https://github.com/elmehdi03)
+
+---
+
+Merci pour votre visite 🙌 !
