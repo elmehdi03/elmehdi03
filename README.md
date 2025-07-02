@@ -5,8 +5,8 @@ Je suis passionné par la **data science**, le **machine learning**, et le **dé
 
 ## 🎓 Formation
 
-- 🎓 Cycle Ingénieur Big Data – UEMF (Fès, Maroc)
-- 🔬 Intérêt pour : Machine Learning, Deep Learning, Business Intelligence, Streamlit, Power BI
+- 🎓 Cycle Ingénieur Big Data Analytics– UEMF (Fès, Maroc)
+- 🔬 Intérêt pour : Machine Learning, Data Science et l'Intelligence Artificielle
 
 ## 💻 Compétences
 
@@ -17,7 +17,7 @@ Je suis passionné par la **data science**, le **machine learning**, et le **dé
 
 ## 📌 Projets phares
 
-- Prédiction de churn télécom (LightGBM + SHAP)
+- [Prédiction de churn télécom (LightGBM + SHAP)](https://github.com/elmehdi03/Churn_Detection)
 - Tableau de bord e-commerce (Power BI)
 - Application de gestion de stages (MySQL + Python)
 - Interface de filtrage d’image (tkinter + OpenCV)
