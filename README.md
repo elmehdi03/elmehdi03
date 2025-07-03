@@ -19,7 +19,7 @@ Je suis passionné par la **data science**, le **machine learning**, et le **dé
 
 - [Prédiction de churn télécom (LightGBM + SHAP)](https://github.com/elmehdi03/churn_prediction_dashboard)
 - [Détection cancer du poumon](https://github.com/elmehdi03/Cancer-Detection-ML)
-- Tableau de bord e-commerce (Power BI)
+- [Tableau de bord e-commerce (Power BI)](https://github.com/elmehdi03/Sales-Decision-Dashboard-Power-BI)
 - Application de gestion de stages (MySQL + Python)
 - Interface de filtrage d’image (tkinter + OpenCV)
 
