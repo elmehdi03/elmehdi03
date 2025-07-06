@@ -1,6 +1,6 @@
 # 👋 Bienvenue !
 
-Je m'appelle **El Mehdi El Youbi Rmich** et je suis étudiant en 2ᵉ année du cycle ingénieur à l'UEMF, spécialisé en **Big Data Analytics**.  
+Je m'appelle **El Mehdi El Youbi Rmich** et je suis étudiant en 3ᵉ année du cycle ingénieur à l'UEMF, spécialisé en **Big Data Analytics**.  
 Je suis passionné par la **data science**, le **machine learning**, et le **développement de projets concrets** autour des données.
 
 ## 🎓 Formation
