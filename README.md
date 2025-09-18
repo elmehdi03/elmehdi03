@@ -13,7 +13,7 @@ I am passionate about **data science**, **machine learning**, and building **rea
 - **Languages**: Python, R, JavaScript, Java, C, C++, SQL
 - **Big Data**: Hadoop, Kafka, Spark, Docker
 - **Tools**: Streamlit, Power BI, Git, Docker (basic knowledge)  
-- **Frameworks**: scikit-learn, Pandas, NumPy, Matplotlib  
+- **Frameworks**: scikit-learn, TensorFlow, PyTorch, Polars, Pandas, NumPy, Matplotlib, Seaborn, 
 
 ## 📌 Key Projects
 
