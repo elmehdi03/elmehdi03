@@ -1,6 +1,6 @@
 # 👋 Welcome!
 
-My name is **El Mehdi El Youbi Rmich**, and I am a final year engineering student at UEMF, specializing in **Big Data Analytics**.  
+My name is **El Mehdi EL YOUBI RMICH**, and I am a final year engineering student at UEMF, specializing in **Big Data Analytics**.  
 I am passionate about **data science**, **machine learning**, and building **real-world data-driven projects**.
 
 ## 🎓 Education
@@ -12,8 +12,8 @@ I am passionate about **data science**, **machine learning**, and building **rea
 
 - **Languages**: Python, R, JavaScript, Java, C, C++, SQL
 - **Big Data**: Hadoop, Kafka, Spark, Docker
-- **Tools**: Streamlit, Power BI, Git, Docker (basic knowledge)  
-- **Frameworks**: scikit-learn, TensorFlow, PyTorch, Polars, Pandas, NumPy, Matplotlib, Seaborn, 
+- **Tools**: Streamlit, Power BI, Git, Jupyter, Android Studio
+- **Frameworks & Libraries**: scikit-learn, TensorFlow, PyTorch, Polars, Pandas, NumPy, Matplotlib, Seaborn, Node.js
 
 ## 📌 Key Projects
 
@@ -29,7 +29,6 @@ I am passionate about **data science**, **machine learning**, and building **rea
 
 - 📧 mehdi.eloubi@gmail.com  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/el-mehdi-el-youbi-rmich-574941249)  
-- 💻 [GitHub](https://github.com/elmehdi03)  
 
 ---
 
