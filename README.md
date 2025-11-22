@@ -17,10 +17,11 @@ I am passionate about **data science**, **machine learning**, and building **rea
 
 ## 📌 Key Projects
 
+- [RAG-Assitant(using Mistral AI)](https://github.com/elmehdi03/RAG-Assistant)
+- [Apache log analysis with PySpark, PostgreSQL, and Power BI](https://github.com/elmehdi03/apache-log-analysis-spark-powerbi)  
 - [Telecom churn prediction (LightGBM)](https://github.com/elmehdi03/churn_prediction_dashboard)  
 - [Lung cancer detection](https://github.com/elmehdi03/Cancer-Detection-ML)  
 - [E-commerce dashboard (Power BI)](https://github.com/elmehdi03/Sales-Decision-Dashboard-Power-BI)  
-- [Apache log analysis with PySpark, PostgreSQL, and Power BI](https://github.com/elmehdi03/apache-log-analysis-spark-powerbi)  
 - Internship management application (MySQL + Python)  
 
 👉 Explore more of my work in the public repositories below!
